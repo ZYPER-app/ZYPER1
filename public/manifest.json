@@ -1,0 +1,28 @@
+{
+  "name": "ZYPER – Mini Market",
+  "short_name": "ZYPER",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Mini market autoservicio en tu edificio con scan & go",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+git init
+git add .
+git commit -m "Primera versión de ZYPER"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/zyper-app.git
+git push -u origin main
+
