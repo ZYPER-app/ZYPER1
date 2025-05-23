@@ -12,7 +12,7 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^12.3.1",
     "i18next": "^23.4.6",
-    "react-qr-reader": "^2.2.1"
+    "react-qr-scanner": "^1.0.2"
   },
   "devDependencies": {
     "vite": "^5.0.0"
