@@ -12,7 +12,7 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^12.3.1",
     "i18next": "^23.4.6",
-    "react-qr-barcode-scanner": "^1.2.6"
+    "react-qr-reader": "^3.0.0"
   },
   "devDependencies": {
     "vite": "^5.0.0"
